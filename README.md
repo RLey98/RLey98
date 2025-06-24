@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&center=true&vCenter=true&width=535&height=150&lines=Software+Developer+%7C+Data+Scientist)](https://git.io/typing-svg)
 
 <!--
 **RLey98/RLey98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 -->
 
 # 💫 Sobre mí:
-💻 Apasionado por la tecnología, resolver de problemas y el aprendizaje constante.<br><br>Actualmente colaboro como Desarrollador Web en una empresa de tours en la Riviera Maya, pero estoy en búsqueda de nuevos retos. 💪<br><br>🧠 Me estoy especializando en Data Science y Machine Learning, combinando en conjunto con mis habilidades como desarrollador.<br><br>📚 Actualmente curso el bootcamp de Data Science de TripleTen, donde refuerzo mis habilidades en análisis, visualización y modelado predictivo.<br><br>🔍 Me encanta encontrar patrones, detectar tendencias e implementar modelos predictivos que aporten valor real a los datos.<br><br>🤝 Siempre estoy abierto a colaborar en proyectos interesantes y a seguir creciendo profesionalmente.<br><br>📬 ¿Quieres contactar conmigo?
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-ley-muñoz-5b1349a6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rodrigo.ley78@gmail.com) 
+Apasionado por la tecnología, resolver de problemas y el aprendizaje constante <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br> 
+* 💻 Actualmente colaboro como Desarrollador Web en una empresa de tours en la Riviera Maya, pero estoy en búsqueda de nuevos retos. 💪
+* 🧠 Me estoy especializando en Data Science y Machine Learning, combinando en conjunto con mis habilidades como desarrollador.
+* 🔎 Actualmente curso el bootcamp de Data Science de TripleTen, donde refuerzo mis habilidades en análisis, visualización y modelado predictivo.
+* ❤️​ Me encanta encontrar patrones, detectar tendencias e implementar modelos predictivos que aporten valor real a los datos.
+* 🤝 Siempre estoy abierto a colaborar en proyectos interesantes y a seguir creciendo profesionalmente.
+* 📬 ¿Quieres contactar conmigo? [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-ley-muñoz-5b1349a6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rodrigo.ley78@gmail.com) 
 
 # 💻 Tech Stack:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
