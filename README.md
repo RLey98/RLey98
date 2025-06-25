@@ -1,4 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&center=true&vCenter=true&width=535&height=150&lines=Software+Developer+%7C+Data+Scientist)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&center=true&vCenter=true&repeat=false&width=935&height=75&lines=Software+Developer+%7C+Data+Scientist)](https://git.io/typing-svg)
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rodrigo-ley-muñoz-5b1349a6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile of Rodrigo Ley Muñoz" /></a>
+  <a href="mailto:rodrigo.ley78@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email to rodrigo.ley78@gmail.com" /></a>
+</></div>
 
 <!--
 **RLey98/RLey98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 Sobre mí:
+# ​​🤖​​ Sobre mí:
 Apasionado por la tecnología, resolver de problemas y el aprendizaje constante <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br> 
 * 💻 Actualmente colaboro como Desarrollador Web en una empresa de tours en la Riviera Maya, pero estoy en búsqueda de nuevos retos. 💪
 * 🧠 Me estoy especializando en Data Science y Machine Learning, combinando en conjunto con mis habilidades como desarrollador.
@@ -41,7 +47,7 @@ Apasionado por la tecnología, resolver de problemas y el aprendizaje constante 
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-# 📊 GitHub Stats:
+# 📊 Estadísticas GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=RLey98&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RLey98&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RLey98&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
