@@ -1,4 +1,7 @@
-# Hola, soy Rodrigo
+<div align="center">
+  <img src="https://github.com/RLey98/RLey98/blob/main/image-gif.gif" alt="header"/>
+</div>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&center=true&vCenter=true&repeat=false&width=935&height=75&lines=Software+Developer+%7C+Data+Scientist)](https://git.io/typing-svg)
 
 <div align="center">
